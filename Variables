@@ -1,0 +1,19 @@
+package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+        {
+            int i;
+            i = 50;
+            System.out.println("test score initialized is: " + i);
+            float y;
+            y = (float) 24.99;
+            System.out.println("Price tag:: " + y);
+            String n;
+            n = "Bobby Johnson";
+            System.out.println("Username: " + n);
+
+        }
+    }
+}
